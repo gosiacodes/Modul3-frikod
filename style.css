@@ -56,3 +56,7 @@ h1 {
         height: auto;
         padding: 2px;
 }
+
+.centerText {
+    text-align: center;
+}
