@@ -1,4 +1,5 @@
-# Modul3-frikod
- Modul 3 - frikod / Avancerad JavaScript
+# Website "The best app in the world" 
 
-https://margareta75.github.io/Modul3-frikod/
+Website "The best app in the world" - school project at Advanced JavaScript course (2020)
+
+https://gosiacodes.github.io/Modul3-frikod/
