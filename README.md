@@ -2,4 +2,4 @@
 
 Website "The best app in the world" - school project at Advanced JavaScript course (2020)
 
-https://gosiacodes.github.io/Modul3-frikod/
+https://github.com/gosiacodes/The-best-app-in-the-world
